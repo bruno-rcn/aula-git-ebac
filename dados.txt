@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Bruno
+-Profissão: QA
+-Cidade: Cascais
+-O que faz nas horas vaga: Academia, Jogo video game, Saio com a esposa
+-Feedback sobre o curso Qualidade de Software: Ele tem um conteudo bem objetivo, mas, faltam mais exercicios simulando a realidade de trabalho.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito bem e funciona bem.
+
+Obrigado!!!
+
+
